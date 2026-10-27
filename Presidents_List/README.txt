@@ -8,13 +8,12 @@ Two Lists Are Ran Using the For Loop and the While Loop.
 !HOW TO RUN!
 1. Open Trintelic GitHub repository.
 2. Download presidents_list repository.
-3. Make sure Python 3.x is installed on computer and is installed as an add-on
+3. Make sure Python 3.x and Anaconda are installed on computer and installed as an add-on
   in Visual Studio Code.
 4. Open Visual Studio Code.
 5. Open presidents_list.py in Visual Studio Code.
-6. Look at bottom section below code input and select the "Output" tab if it is not already selected.
-7. Click play button in upper right hand corner of terminal.
-8. Look at Output Tab and identify names that contain an asterisk next to them.
+6. Click play button in upper bar of terminal.
+7. Look beneath each code section and identify names that contain an asterisk next to them.
 
 ** There should be two lists printed, both with asterisks next to presidents with
    a last name beginning with an A. **
